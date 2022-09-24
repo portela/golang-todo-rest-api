@@ -19,6 +19,7 @@ The goal of this project is to learn the basic of Go Language.
 > go run file_name
 ```
 
+[Go Book - Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 
 ## Running the App
