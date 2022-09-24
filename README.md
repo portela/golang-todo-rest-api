@@ -4,6 +4,23 @@
 A simple REST API as a backend for a ToDo app done with Go Lang.
 The goal of this project is to learn the basic of Go Language.
 
+
+## Notes on Go Language
+
+
+```Bash
+> go test
+> go test -v
+> go test -bench="."
+> go test -cover
+```
+
+```Bash
+> go run file_name
+```
+
+
+
 ## Running the App
 
 ### Installation
