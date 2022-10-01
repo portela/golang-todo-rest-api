@@ -13,7 +13,12 @@ The goal of this project is to learn the basic of Go Language.
 > go test -v
 > go test -bench="."
 > go test -cover
+> go test -race
 ```
+
+-cover : see test coverage 
+-race  : detect race conditions
+
 
 ```Bash
 > go run file_name
